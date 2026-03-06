@@ -13,7 +13,7 @@ Full-stack real-time chat application.
 ## Features
 
 - User authentication (signup, login, logout)
-- Real-time messaging
+- add token validation endpoint and profile image upload
 - Online users
 
 ## Project Structure
